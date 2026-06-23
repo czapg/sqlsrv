@@ -1,12 +1,6 @@
 /*
-	
-	Data:
-	2026/06/23
-
-	Opis:
-	Lista najwazniejszych typow oczekiwania w SQL Server
-	Analiza statystyki oczekiwania
-
+	Create_Date: 2026/06/23
+	Desc: List of the most important types of wait in SQL Server. Analysis of waiting statistics.
 */
 
 ;WITH Waits
